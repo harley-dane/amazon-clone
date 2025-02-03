@@ -1,9 +1,11 @@
 # Constraints
 
-Some boundaries around our project.
+Some boundaries around my project.
 
 ## External
 
+- project deadlines: 2 weeks
+NA
 <!--
   constraints coming from the outside that your team has no control over.
   These may include:
@@ -23,6 +25,7 @@ Some boundaries around our project.
 
 ## Internal: Voluntary
 
+- my limited skills in HTML & CSS
 <!--
   constraints that your team decided on to help scope the project. they may include:
   - coding style & conventions
