@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/Screenshot%20-clone.png)
 
 ## Technologies
 
